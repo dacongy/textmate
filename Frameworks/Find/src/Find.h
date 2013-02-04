@@ -1,5 +1,4 @@
 #import <OakFoundation/OakFindProtocol.h>
-#import "scan_path.h" // for find::folder_scan_settings_t used in std::map
 
 namespace find
 {
